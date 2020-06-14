@@ -1,9 +1,17 @@
-I am building an up to date list with every independent bug bounty provider with basic details and links
+A company has a bug bounty program, but they don't want mediation from a platform. So what do they do? Where can they publish? 
 
-Does your company run such a program? Create an issue and we'll include you!
+A bounty hunter wants to find independent bounty programs, so where does he look?
 
-### Why?
+Here! I ran into this problem and decided to fix it by creating this list.
 
-Getting the word out about a bug bounty can be hard if you don't use platforms like HackerOne and BugCrowd. Similarly, finding independent programs can be be challenging. 
+### Why do you hate platforms?
 
-Eventually this could be a site, a kind of nonplatform platform (in that it's free to publish and unmediated). For now we just need to build the data and see if it is useful.
+I don't! I just don't think they should be a prerequisite for getting the word out about a new bug bounty program.
+
+### I want to publish a bug bounty program here
+
+Make an issue!
+
+### Thanks!
+
+No problem!
