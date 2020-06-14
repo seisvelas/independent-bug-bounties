@@ -1,6 +1,7 @@
-This is a maintained list of every independent bug bounty platform we can find. Our goal is to provide companies with an easy, free way to spread the word about their bounty programs, without having to resort to bug bounty platforms like HackerOne or BugCrowd. At the sime time, bug bounty hunters should have an easy, impartial medium for finding independent bug bounty programs.
+I am building an up to date list with every independent bug bounty provider with basic details and links
 
-We have nothing against platforms, merely we think there is a valid space for independent programs as well, that we hope to nurture
+Does your company run such a program? Create an issue and we'll include you!
 
-Does your company or project run a bug bounty program that you'd like to see mentioned here? Create an issue to let us know
-and we'll make sure to get it included :)
+### Why?
+
+Getting the word out about a bug bounty can be hard if you don't use platforms like HackerOne and BugCrowd. Similarly, finding independent programs can be be challenging. 
