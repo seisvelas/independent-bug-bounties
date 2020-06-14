@@ -1,5 +1,4 @@
-This is a maintained list of every independent bug bounty platform. Our goal is to provide companies with an easy, free way to
-spread the word about their bounty programs, without having to resort to bug bounty platforms like HackerOne or BugCrowd. 
+This is a maintained list of every independent bug bounty platform we can find. Our goal is to provide companies with an easy, free way to spread the word about their bounty programs, without having to resort to bug bounty platforms like HackerOne or BugCrowd. At the sime time, bug bounty hunters should have an easy, impartial medium for finding independent bug bounty programs.
 
 We have nothing against platforms, merely we think there is a valid space for independent programs as well, that we hope to nurture
 
